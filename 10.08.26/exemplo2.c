@@ -2,7 +2,7 @@
 #include <math.h>
 
 int main(){
-    int a = 2;
-    int *b = &a;
-    printf("%d \n", b);
+    int a = 3, b = 5;
+    printf("%i \n", &a);
+    printf("%i \n", &b);
 }
