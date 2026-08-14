@@ -5,4 +5,5 @@ int main(){
     int a = 3, b = 5;
     printf("%i \n", &a);
     printf("%i \n", &b);
+    return 0;
 }
