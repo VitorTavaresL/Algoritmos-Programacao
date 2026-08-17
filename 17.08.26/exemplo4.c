@@ -15,5 +15,6 @@ int main(){
     printf("a / b = %d\n", a / b);
     printf("a * b = %f\n", (float)a * b);
     printf("a %% b = %d\n", a % b );
+    printf("%d\n", pow(a,b));
     return 0;
 }
