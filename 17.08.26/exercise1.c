@@ -10,6 +10,8 @@ int main(){
 
     h = pow(a, 2) + pow(b, 2);
     hipotenusa = sqrt(h);
-    printf("a hipotenusa é igual a: %lf", hipotenusa);
 
+    printf("a hipotenusa é igual a: %lf", hipotenusa);
+    
+    return 0;
 }
