@@ -18,6 +18,8 @@ int main(){
     printf("a %% b = %d\n", a % b );
    // Power in C 
     printf("pow(a,b) = %lf\n", pow(a,b));
-    // Sqrt Square Root.
+    // Sqrt Stands for Square Root.
+    printf("sqrt(a) = %lf\n", sqrt(a));
+    
     return 0;
 }
