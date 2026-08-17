@@ -16,7 +16,7 @@ int main(){
     printf("a / b = %d\n", a / b);
     printf("a * b = %f\n", (float)a * b);
     printf("a %% b = %d\n", a % b );
-   // Potenciação em C 
+   // Potenciação em C _
     printf("pow(a,b) = %d\n", pow(a,b));
     return 0;
 }
