@@ -1,3 +1,3 @@
-# Aula 1
+# First Class
 
-### Nessa aula foi feito o estudo do compilador GCC na linguagem C
+### In this class i learned how to use the GCC compiler for the C Lang

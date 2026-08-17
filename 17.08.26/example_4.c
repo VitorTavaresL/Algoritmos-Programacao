@@ -8,7 +8,7 @@ int main(){
     scanf("%d %d", &a, &b);
     printf("a = %d\n", a);
     printf("b = %d\n", b);
-    // Tipo P é de pointer
+    // Type P stands to pointer
     printf("a = %p\n", &a);
     printf("b = %p\n", &b);
     printf("a + b = %d\n", a + b);
@@ -16,7 +16,8 @@ int main(){
     printf("a / b = %d\n", a / b);
     printf("a * b = %f\n", (float)a * b);
     printf("a %% b = %d\n", a % b );
-   // Potenciação em C _
-    printf("pow(a,b) = %d\n", pow(a,b));
+   // Power in C 
+    printf("pow(a,b) = %lf\n", pow(a,b));
+    // Sqrt Square Root.
     return 0;
 }
