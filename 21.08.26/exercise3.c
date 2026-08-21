@@ -1,3 +1,9 @@
+/*
+    15484 - Algoritmos e Porgramação
+    Exercicio 6
+    Nome : Vitor Leite
+    RA : 26001613
+*/
 #include <stdio.h>
 
 int main(){

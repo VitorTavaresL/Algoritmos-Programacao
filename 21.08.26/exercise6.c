@@ -20,8 +20,8 @@ int main(){
     scanf("%d", &c);
 
     if (a >= 0 && a != 0){
-    printf("\n x1 e: %f", (-b + sqrt((b*b) - 4 *a * c))/2 * a);
-    printf("\n x2 e: %f", (-b - sqrt((b*b) - 4 *a * c))/2 * a);
+    printf("\n x1 e: %f", (-b + sqrt((pow(2,b)) - 4 *a * c))/2 * a);
+    printf("\n x2 e: %f", (-b - sqrt((pow(2,b)) - 4 *a * c))/2 * a);
     }
 
     return 0;
